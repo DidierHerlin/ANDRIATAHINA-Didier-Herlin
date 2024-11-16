@@ -1,0 +1,21 @@
+{
+    "i18n-ally.localesPaths": [
+        "env/Lib/site-packages/django_extensions/locale",
+        "env/Lib/site-packages/rest_framework/locale",
+        "env/Lib/site-packages/rest_framework_simplejwt/locale",
+        "env/Lib/site-packages/django/conf/locale",
+        "env/Lib/site-packages/django/contrib/messages",
+        "env/Lib/site-packages/django/contrib/admin/locale",
+        "env/Lib/site-packages/django/contrib/admindocs/locale",
+        "env/Lib/site-packages/django/contrib/auth/locale",
+        "env/Lib/site-packages/django/contrib/contenttypes/locale",
+        "env/Lib/site-packages/django/contrib/flatpages/locale",
+        "env/Lib/site-packages/django/contrib/humanize/locale",
+        "env/Lib/site-packages/django/contrib/gis/locale",
+        "env/Lib/site-packages/django/contrib/postgres/locale",
+        "env/Lib/site-packages/django/contrib/redirects/locale",
+        "env/Lib/site-packages/django/contrib/sessions/locale",
+        "env/Lib/site-packages/django/contrib/sites/locale",
+        "env/Lib/site-packages/rest_framework/templates/rest_framework/docs/langs"
+    ]
+}
